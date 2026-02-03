@@ -1,0 +1,172 @@
+{
+    "2017": {
+        "SingleEleCR": {
+            "data": {
+                "score_0": 585.0, 
+                "score_1": 24.0
+            }, 
+            "sum_bkg_mc": {
+                "score_0": 578.3514271735978, 
+                "score_1": 39.52425756577118
+            }
+        }, 
+        "DoubleEleCR": {
+            "data": {
+                "score_0": 60.0, 
+                "score_1": 3.0
+            }, 
+            "sum_bkg_mc": {
+                "score_0": 64.34866605590753, 
+                "score_1": 3.128059354825505
+            }
+        }, 
+        "SingleMuCR": {
+            "data": {
+                "score_0": 782.0, 
+                "score_1": 28.0
+            }, 
+            "sum_bkg_mc": {
+                "score_0": 994.3772493067419, 
+                "score_1": 51.900600131557425
+            }
+        }, 
+        "DoubleMuCR": {
+            "data": {
+                "score_0": 83.0, 
+                "score_1": 2.0
+            }, 
+            "sum_bkg_mc": {
+                "score_0": 79.3594058142887, 
+                "score_1": 4.337566440683329
+            }
+        }
+    }, 
+    "2016": {
+        "pre_VFP": {
+            "SingleEleCR": {
+                "data": {
+                    "score_0": 276.0, 
+                    "score_1": 19.0
+                }, 
+                "sum_bkg_mc": {
+                    "score_0": 307.5028102625888, 
+                    "score_1": 27.542158187187724
+                }
+            }, 
+            "DoubleEleCR": {
+                "data": {
+                    "score_0": 21.0, 
+                    "score_1": 0.0
+                }, 
+                "sum_bkg_mc": {
+                    "score_0": 30.67599320768306, 
+                    "score_1": 2.103128885842145
+                }
+            }, 
+            "SingleMuCR": {
+                "data": {
+                    "score_0": 354.0, 
+                    "score_1": 17.0
+                }, 
+                "sum_bkg_mc": {
+                    "score_0": 437.8517039454822, 
+                    "score_1": 33.48923454614491
+                }
+            }, 
+            "DoubleMuCR": {
+                "data": {
+                    "score_0": 14.0, 
+                    "score_1": 1.0
+                }, 
+                "sum_bkg_mc": {
+                    "score_0": 31.879060579032508, 
+                    "score_1": 1.3012531422776923
+                }
+            }
+        }, 
+        "post_VFP": {
+            "SingleEleCR": {
+                "data": {
+                    "score_0": 179.0, 
+                    "score_1": 7.0
+                }, 
+                "sum_bkg_mc": {
+                    "score_0": 247.8045800590885, 
+                    "score_1": 15.508576847816352
+                }
+            }, 
+            "DoubleEleCR": {
+                "data": {
+                    "score_0": 21.0, 
+                    "score_1": 1.0
+                }, 
+                "sum_bkg_mc": {
+                    "score_0": 23.88696958315721, 
+                    "score_1": 1.4425056067808453
+                }
+            }, 
+            "SingleMuCR": {
+                "data": {
+                    "score_0": 294.0, 
+                    "score_1": 12.0
+                }, 
+                "sum_bkg_mc": {
+                    "score_0": 370.933807885733, 
+                    "score_1": 17.991887741689197
+                }
+            }, 
+            "DoubleMuCR": {
+                "data": {
+                    "score_0": 27.0, 
+                    "score_1": 2.0
+                }, 
+                "sum_bkg_mc": {
+                    "score_0": 30.239797133886977, 
+                    "score_1": 1.5694833166023217
+                }
+            }
+        }
+    }, 
+    "2018": {
+        "SingleEleCR": {
+            "data": {
+                "score_0": 788.0, 
+                "score_1": 37.0
+            }, 
+            "sum_bkg_mc": {
+                "score_0": 883.2886507133912, 
+                "score_1": 55.53021608713947
+            }
+        }, 
+        "DoubleEleCR": {
+            "data": {
+                "score_0": 54.0, 
+                "score_1": 1.0
+            }, 
+            "sum_bkg_mc": {
+                "score_0": 87.9474871137947, 
+                "score_1": 4.301770618613517
+            }
+        }, 
+        "SingleMuCR": {
+            "data": {
+                "score_0": 1133.0, 
+                "score_1": 45.0
+            }, 
+            "sum_bkg_mc": {
+                "score_0": 1312.9570729696616, 
+                "score_1": 103.92772887170126
+            }
+        }, 
+        "DoubleMuCR": {
+            "data": {
+                "score_0": 68.0, 
+                "score_1": 4.0
+            }, 
+            "sum_bkg_mc": {
+                "score_0": 99.34781194797658, 
+                "score_1": 5.722209694836752
+            }
+        }
+    }
+}
