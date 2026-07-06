@@ -1,0 +1,85 @@
+Assuming card /nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test/run2/axial/Mx1//1000/datacard_1000.root uses mass value 1000
+Assuming card /nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test/run2/axial/Mx1//2000/datacard_2000.root uses mass value 2000
+Assuming card /nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test/run2/axial/Mx1//3000/datacard_3000.root uses mass value 3000
+Assuming card /nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test/run2/axial/Mx1//4000/datacard_4000.root uses mass value 4000
+Assuming card /nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test/run2/axial/Mx1//5000/datacard_5000.root uses mass value 5000
+/nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test/run2/axial/Mx1/1000 /nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test
+ <<< Combine >>> 
+ <<< v9.2.0 >>>
+>>> Random number generator seed is 123456
+>>> Method used is AsymptoticLimits
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.0014
+Expected  2.5%: r < 0.0133
+Expected 16.0%: r < 0.0143
+Expected 50.0%: r < 0.0160
+Expected 84.0%: r < 0.0193
+Expected 97.5%: r < 0.0244
+
+Done in 0.08 min (cpu), 0.08 min (real)
+/nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test
+/nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test/run2/axial/Mx1/2000 /nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test
+ <<< Combine >>> 
+ <<< v9.2.0 >>>
+>>> Random number generator seed is 123456
+>>> Method used is AsymptoticLimits
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.0095
+Expected  2.5%: r < 0.0147
+Expected 16.0%: r < 0.0161
+Expected 50.0%: r < 0.0191
+Expected 84.0%: r < 0.0231
+Expected 97.5%: r < 0.0289
+
+Done in 0.09 min (cpu), 0.09 min (real)
+/nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test
+/nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test/run2/axial/Mx1/3000 /nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test
+ <<< Combine >>> 
+ <<< v9.2.0 >>>
+>>> Random number generator seed is 123456
+>>> Method used is AsymptoticLimits
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.0433
+Expected  2.5%: r < 0.0291
+Expected 16.0%: r < 0.0359
+Expected 50.0%: r < 0.0465
+Expected 84.0%: r < 0.0635
+Expected 97.5%: r < 0.0857
+
+Done in 0.06 min (cpu), 0.06 min (real)
+/nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test
+/nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test/run2/axial/Mx1/4000 /nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test
+ <<< Combine >>> 
+ <<< v9.2.0 >>>
+>>> Random number generator seed is 123456
+>>> Method used is AsymptoticLimits
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.2248
+Expected  2.5%: r < 0.1154
+Expected 16.0%: r < 0.1519
+Expected 50.0%: r < 0.2109
+Expected 84.0%: r < 0.3009
+Expected 97.5%: r < 0.4193
+
+Done in 0.05 min (cpu), 0.05 min (real)
+/nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test
+/nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test/run2/axial/Mx1/5000 /nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test
+ <<< Combine >>> 
+ <<< v9.2.0 >>>
+>>> Random number generator seed is 123456
+>>> Method used is AsymptoticLimits
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 1.1950
+Expected  2.5%: r < 0.5685
+Expected 16.0%: r < 0.7596
+Expected 50.0%: r < 1.0781
+Expected 84.0%: r < 1.5551
+Expected 97.5%: r < 2.1812
+
+Done in 0.05 min (cpu), 0.05 min (real)
+/nfs_scratch/mallampalli/Analysis/Mono-zprime/UL/working2/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/data/tutorials/monoLightZprime/fitbased/with_hpsjet_misID/unblinding_trimmed_test

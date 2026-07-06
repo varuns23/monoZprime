@@ -1,0 +1,7 @@
+# Pythong
+__pycache__/
+*.pvc
+
+#virtual environments
+venv2d
+
